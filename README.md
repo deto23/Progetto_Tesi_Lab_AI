@@ -1,4 +1,4 @@
-# Progetto_LabAI
+# Estrazione e Classificazione di articoli tratti da quotidiani attraverso modelli di Intelligenza Artificiale
 Applicazione che riconosce gli articoli all'interno di una pagina di giornale riportandoli digitalmente in una pagina web.
 L'applicazione si divide in:
 
